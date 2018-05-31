@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#titlePic {
+    height: 150px;
+    width: 150px;
+}
+
+h1 {
+    font-size: 72pt;
+}
